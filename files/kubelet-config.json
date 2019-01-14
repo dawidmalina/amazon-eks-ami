@@ -26,5 +26,6 @@
   "featureGates": {
     "RotateKubeletServerCertificate": true
   },
+  "resolvConf": "/run/systemd/resolve/resolv.conf",
   "serverTLSBootstrap": true
 }
